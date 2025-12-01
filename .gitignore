@@ -1,0 +1,12 @@
+# Log files
+*.log
+
+# Environment variables
+*.env
+
+# Temporary files
+temp.txt
+
+# Python cache
+__pycache__/
+*.pyc
