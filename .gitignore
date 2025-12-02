@@ -10,3 +10,6 @@ temp.txt
 # Python cache
 __pycache__/
 *.pyc
+
+#App key
+secrets.txt
